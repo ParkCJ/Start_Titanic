@@ -1,2 +1,7 @@
-# Start_Titanic
-github에 입문하여 Titanic Tutorial을 진행해 보았다.
+# Titanic
+Titanic Tutorial
+
+#### 데이터 분석의 첫 시작은 대부분 타이타닉 데이터로 시작한다.
+잘 구성된 데이터 셋과 처음 시작하는 사람들에게 데이터 분석의 예시를 전적으로 잘 보여주는 데이터 셋이다.
+이에 따라 git의 첫 시작을 타이타닉 데이터를 이용해 데이터 분석 git에 발을 내딛어 보려고 한다.
+### - ParkCJ
